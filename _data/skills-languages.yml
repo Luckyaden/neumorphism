@@ -5,13 +5,13 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
-  weight: 5
-
-- name: JavaScript
+- name: Java
   weight: 4
 
-- name: Python
+- name: JavaScript
+  weight: 2
+
+- name: ProgresSQL
   weight: 2
 
 - name: HTML5
@@ -20,14 +20,14 @@
 - name: CSS3
   weight: 3
 
-- name: SASS
+- name: HTTP
   weight: 3
 
 - name: Java
   weight: 1
 
-- name: Dart
-  weight: 1
+- name: Markdown
+  weight: 3
 
 - name: Swift
   weight: 1
